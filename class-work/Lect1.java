@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Lect1{
 	
 	public static void main(String[] args){
@@ -16,6 +18,7 @@ public class Lect1{
 		for(int j=0;j<10;j++){
 			System.out.println("j : "+j);
 		}
+		
 		int k=10;
 		while(k>0){
 			System.out.println("k :"+k);
@@ -27,6 +30,10 @@ public class Lect1{
 			l--;
 		}
 		while(l>0);
+		
+		Scanner sc=new Scanner(System.in);
+		int x=Sc.next.Int();
+			
 		
 	}
 }
