@@ -8,8 +8,8 @@ import java.util.Scanner;
    int n3=sc.nextInt();
    
    if(n1<n2 && n1<n3){
-   System.out.println("is the first smallest number? yes");
-   else
+   System.out.println("is the first smallest number? yes");}
+   else{
    System.out.println("is the first smallest number? no");
    }
    }

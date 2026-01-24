@@ -7,8 +7,8 @@ import java.util.Scanner;
   
   if(num>=0){
   int sum=num(num+1)/2;
-  System.out.println("The sum of" +num+ "natural numbers is" +sum);
-  else
+  System.out.println("The sum of" +num+ "natural numbers is" +sum);}
+  else{
   System.out.println("The sum of" +num+ "is not natural numbers);
   }
   }
