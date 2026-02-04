@@ -23,7 +23,7 @@ public class FizzBuzz {
                      results[i] = String.valueOf(i);
                  }
              }
-             
+
              for (int i = 0; i <= number; i++) {
                  System.out.println("Position " + i + " = " + results[i]);
              }
