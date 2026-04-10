@@ -1,4 +1,4 @@
-package com.gla;
+package src.com.gla;
 
 public class Student extends Person{
 
